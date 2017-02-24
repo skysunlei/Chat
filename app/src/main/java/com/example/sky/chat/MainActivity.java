@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     private Button send;
     private RecyclerView recyclerView;
     private MsgAdapter adapter;
-    private Button test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
